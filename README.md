@@ -1,4 +1,4 @@
-# SnakeAndLAdder-Java
+# SnakeAndLadder-Java
 ## Low Level Designing
 In this project we take data from console. "how many users want to play"
 After taking player's count we take again input from console "all the players name"
