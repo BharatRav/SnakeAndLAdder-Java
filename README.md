@@ -1,8 +1,13 @@
 # SnakeAndLadder-Java
 
-if you want to play this on your machine
+If you want to play this on your machine
 ensure that you have JDK install in your machine 
-then use this command to colne this repo
+if you have not then install from Oracle website https://www.oracle.com/in/java/technologies/downloads/ and then set its path
+To set a path you can watch a video on youtube  by searching "How to set the path of java compiler"
+
+if you already JDK install ignore upper lines 
+now 
+ use this command to clone this repo
 ## git clone https://github.com/BharatRav/SnakeAndLadder-Java.git
 ## Low Level Designing
 
