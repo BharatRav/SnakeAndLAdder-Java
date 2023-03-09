@@ -5,7 +5,7 @@ ensure that you have JDK install in your machine
 if you have not then install from Oracle website https://www.oracle.com/in/java/technologies/downloads/ and then set its path
 To set a path you can watch a video on youtube  by searching "How to set the path of java compiler"
 
-if you already JDK install ignore upper lines 
+### if you have already JDK install ignore upper lines 
 now 
  use this command to clone this repo
 ## git clone https://github.com/BharatRav/SnakeAndLadder-Java.git
