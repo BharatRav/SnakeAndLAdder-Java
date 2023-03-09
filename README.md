@@ -3,7 +3,7 @@
 if you want to play this on your machine
 ensure that you have JDK install in your machine 
 then use this command to colne this repo
-git clone
+## git clone https://github.com/BharatRav/SnakeAndLadder-Java.git
 ## Low Level Designing
 
 Features: 
